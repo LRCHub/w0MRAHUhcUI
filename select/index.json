@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "オレンジ",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-02T07:58:39.606489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "逢坂大河(釘宮理恵) feat. 櫛枝実乃梨(堀江由衣) & 川嶋亜美(喜多村英梨)",
+      "has_synced": false,
+      "path": "select/01_オレンジ_逢坂大河(釘宮理恵)_feat._櫛枝実乃梨(堀江由衣)_&_川嶋亜美(喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オレンジ(オーケストラver.)",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/02_オレンジ(オーケストラver.)_7!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/03_オレンジ_7!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オレンジ-Acoustic Ver.-",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/04_オレンジ-Acoustic_Ver.-_7!!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オレンジ (Acoustic Ver.)",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/05_オレンジ_(Acoustic_Ver.)_7!!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "逢坂大河(CV:釘宮理恵), 櫛枝実乃梨(CV:堀江由衣) & 川嶋亜美(CV:喜多村英梨)",
+      "has_synced": false,
+      "path": "select/06_オレンジ_逢坂大河(CV_釘宮理恵),_櫛枝実乃梨(CV_堀江由衣)_&_川嶋亜美(CV_喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "逢坂大河(CV: 釘宮理恵)・ 櫛枝実乃梨(CV: 堀江由衣)・ 川嶋亜美(CV: 喜多村英梨)",
+      "has_synced": false,
+      "path": "select/07_オレンジ_逢坂大河(CV__釘宮理恵)・_櫛枝実乃梨(CV__堀江由衣)・_川嶋亜美(CV__喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/08_オレンジ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Orange (オレンジ)",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/09_Orange_(オレンジ)_7!!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/10_オレンジ_96猫.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "逢坂大河(CV:釘宮理恵),櫛枝実乃梨(CV:堀江由衣),川嶋亜美(CV:喜多村英梨)",
+      "has_synced": false,
+      "path": "select/11_オレンジ_逢坂大河(CV_釘宮理恵),櫛枝実乃梨(CV_堀江由衣),川嶋亜美(CV_喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "オレンジ (off vocal ver.)",
+      "artist": "逢坂大河(CV:釘宮理恵),櫛枝実乃梨(CV:堀江由衣),川嶋亜美(CV:喜多村英梨)",
+      "has_synced": false,
+      "path": "select/12_オレンジ_(off_vocal_ver.)_逢坂大河(CV_釘宮理恵),櫛枝実乃梨(CV_堀江由衣),川嶋亜美(CV_喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "オレンジ －citrus mix－",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美",
+      "has_synced": false,
+      "path": "select/13_オレンジ_-citrus_mix-_逢坂大河・櫛枝実乃梨・川嶋亜美.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オレンジ －citrus mix－",
+      "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+      "has_synced": false,
+      "path": "select/14_オレンジ_-citrus_mix-_逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "逢坂大河(CV: 釘宮理恵)・櫛枝実乃梨(CV: 堀江由衣)・川嶋亜美(CV: 喜多村英梨)",
+      "has_synced": false,
+      "path": "select/15_オレンジ_逢坂大河(CV__釘宮理恵)・櫛枝実乃梨(CV__堀江由衣)・川嶋亜美(CV__喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/16_オレンジ_7!!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "オレンジ",
+      "artist": "BONNIE PINK",
+      "has_synced": true,
+      "path": "select/17_オレンジ_BONNIE_PINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オレンジ",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_オレンジ_ウォルピスカーター.txt"
+    }
+  ]
+}
